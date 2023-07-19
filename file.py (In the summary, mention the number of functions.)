@@ -1,0 +1,17 @@
+def func_1():
+    return asdf
+
+def func_b():
+    return asdf
+
+def func_iii():
+    return lol
+
+def g():
+    return lol
+
+def h():
+    return lol
+
+def i():
+    return lol
